@@ -141,7 +141,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_anchor": "header1-1",
@@ -165,7 +165,7 @@
             "showButtons": false
           },
           "title": "",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Don't you forget what's divine in the Russian soul and that's resignation.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -Joseph Conrad-<br><br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WELCOME TO RUSSIA!</b>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br>&nbsp;Don't you forget what's divine in the Russian soul and that's resignation.<br>-Joseph Conrad-<br><b style=\"font-size: 1.5rem; line-height: 1.5;\"><br></b><br><b style=\"font-size: 1.5rem; line-height: 1.5;\">WELCOME TO RUSSIA!</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -926,7 +926,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beauty-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beauty-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -942,7 +942,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13335.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -958,7 +958,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beauty-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beauty-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -974,7 +974,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13335.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -990,7 +990,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beauty-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beauty-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1108,7 +1108,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beauty-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beauty-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1124,7 +1124,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13335.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1140,7 +1140,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beauty-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beauty-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1156,7 +1156,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13335.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1172,7 +1172,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beauty-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beauty-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1234,7 +1234,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beauty-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beauty-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1250,7 +1250,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13335.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1266,7 +1266,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beauty-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beauty-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1282,7 +1282,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13335.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kizhi-2000x13337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1298,7 +1298,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beauty-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beauty-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
