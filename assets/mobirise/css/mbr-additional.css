@@ -1,7 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -481,12 +497,73 @@ h6,
 #header1-1 .mbr-section-lead {
   text-align: left;
 }
+#header3-v .mbr-section-title,
+#header3-v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-v H3 {
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+  color: #232323;
+}
+#features7-t .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-t .iconbox {
+  background-color: #41a85f;
+  border-color: #41a85f;
+}
+#features7-t H4 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  color: #fac51c;
+}
+#features7-t P {
+  font-size: 18px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #232323;
+}
+#header3-y .mbr-section-title,
+#header3-y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-y H3 {
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+#gallery4-z .mbr-gallery-item > div > span B {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  color: #f7da64;
+  font-size: 15px;
+}
+#gallery4-z .mbr-gallery-item > div > span {
+  color: #f7da64;
+  font-family: 'Oswald', sans-serif;
+}
+#gallery4-z LI {
+  font-family: 'Oswald', sans-serif;
+  color: #c1c1c1;
+}
 #header3-k .mbr-section-title,
 #header3-k .mbr-section-subtitle {
   text-align: center;
 }
 #header3-k H3 {
   font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+#gallery4-j .mbr-gallery-item > div > span B {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+#gallery4-j .mbr-gallery-item > div > span {
+  color: #fac51c;
+  font-family: 'Oswald', sans-serif;
+}
+#gallery4-j LI {
+  font-family: 'Oswald', sans-serif;
+  color: #c1c1c1;
 }
 #header3-9 .mbr-section-title,
 #header3-9 .mbr-section-subtitle {
@@ -508,10 +585,56 @@ h6,
 #header3-o H3 {
   font-size: 25px;
   color: #232323;
+  font-family: 'Oswald', sans-serif;
 }
 #features3-p H4 {
   font-size: 16px;
 }
 #features3-q H4 {
+  font-size: 16px;
+}
+#header3-10 .mbr-section-title,
+#header3-10 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-10 H3 {
+  font-size: 25px;
+  color: #232323;
+  font-family: 'Oswald', sans-serif;
+}
+#features3-12 H4 {
+  font-size: 16px;
+}
+#features3-13 H4 {
+  font-size: 16px;
+}
+#header3-14 .mbr-section-title,
+#header3-14 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-14 H3 {
+  font-size: 25px;
+  color: #232323;
+  font-family: 'Oswald', sans-serif;
+}
+#features3-16 H4 {
+  font-size: 16px;
+}
+#features3-17 H4 {
+  font-size: 16px;
+}
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-18 H3 {
+  font-size: 25px;
+  color: #232323;
+  font-family: 'Oswald', sans-serif;
+}
+#features3-1a H4 {
+  font-size: 16px;
+}
+#features3-1b H4 {
   font-size: 16px;
 }
